@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## How to run
 
-Run the Main.java class in './src/travelAgency' - This will show the details of the travel package.
+Run the Main.java class in `./src/travelAgency` - This will show the details of the travel package.
